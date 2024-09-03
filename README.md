@@ -1,2 +1,2 @@
 # quarkiverse.github.io
-Website for quarkiverse.io
+Website for pages.quarkiverse.io
